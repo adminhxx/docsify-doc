@@ -1,35 +1,13 @@
 <!-- markdownlint-disable first-line-h1 -->
 
-- Getting started
+- 首页
 
-  - [Quick start](quickstart.md)
-  - [Adding pages](adding-pages.md)
-  - [Cover page](cover.md)
-  - [Custom navbar](custom-navbar.md)
+  - [文档中心](/)
 
-- Customization
+- ZMK 固件
 
-  - [Configuration](configuration.md)
-  - [Themes](themes.md)
-  - [List of Plugins](plugins.md)
-  - [Write a Plugin](write-a-plugin.md)
-  - [Markdown configuration](markdown.md)
-  - [Language highlighting](language-highlight.md)
-  - [Emoji](emoji.md)
+  - [ZMK 使用帮助](zmk/zmk-help.md)
 
-- Guide
+- ESP32 项目
 
-  - [Deploy](deploy.md)
-  - [Helpers](helpers.md)
-  - [Vue compatibility](vue.md)
-  - [CDN](cdn.md)
-  - [Offline Mode (PWA)](pwa.md)
-  - [Embed Files](embed-files.md)
-  - [UI Kit](ui-kit.md)
-
-- Upgrading
-
-  - [v4 to v5](v5-upgrade.md)
-
-* [Awesome docsify](awesome.md)
-* [Changelog](changelog.md)
+  - [Kindle WiFi 翻页器](esp32/kindle-page-turner.md)

@@ -35,7 +35,7 @@
 
 ## 改键说明
 
-请使用谷歌内核浏览器：谷歌浏览器 <img src="images/img01.png" class="icon-inline" alt=""> 或 Edge <img src="images/img02.png" class="icon-inline" alt="">
+请使用谷歌内核浏览器：谷歌浏览器 <img src="images/img01.png" class="icon-inline" alt="" height="40px"> 或 Edge <img src="images/img02.png" class="icon-inline" alt="" height="40px">
 
 最低版本要求 Chrome 89, Edge 89
 
@@ -47,16 +47,12 @@
 
 **其他社区改键网站：**[**https://zmk-studio-6y4.pages.dev/**](https://zmk-studio-6y4.pages.dev/)
 
-:::success  
-若因**网络问题**无法访问官方地址可选择作者部署站点：[https://zmk.adamhxx.top/](https://zmk.adamhxx.top/) [https://zmk.yalishibukede.dpdns.org/](https://zmk.yalishibukede.dpdns.org/)
-
-:::
 
 ### 第一步：连接数据线，选择设备
 
 ![](images/img03.png)
 
-### 第二步：进入改键界面
+### 第二步：进入改键界面(了解功能区域)
 
 ![](images/img04.png) ![](images/img05.png)
 
@@ -66,8 +62,9 @@
 
 ### ✅常用键值(Key Press类型)
 
-| ⬆ | Keyboard UpArrow |   |
+| 功能 | 键值 |   |
 | --- | --- | --- |
+| ⬆ | Keyboard UpArrow |   |
 | ⬇ | Keyboard DownArrow |   |
 | ⬅️ | Keyboard LeftArrow |   |
 | ➡️ | Keyboard RightArrow |   |
@@ -76,8 +73,7 @@
 | 音量+ （适用安卓📱） | Keyboard Volume Up |   |
 | 音量- （适用安卓📱） | Keyboard Volume Down |   |
 | **锁屏 （仅测试安卓**📱**）** | AL Terminal Lock/Screensaver | \*\*文石 \*\*建议使用自带快捷键 |
-| cmd + L |   |   |
-| ![](images/img07.png) |   |   |
+| cmd + L |  ![](images/img07.png) |   |
 | **截屏 （仅测试安卓**📱**）** | Snapshot |   |
 | **Home键 (仅测试安卓)** | AC Home |   |
 | **熄屏(已测试小米14、vivo x80)** | ![](images/img08.png) |   |
@@ -112,10 +108,9 @@ tips: 保存改键配置后按**此按键**后电脑会出现一个**新的磁�
 
 ### 4️⃣切层键
 
-:::color4  
+
 请勿在改键界面以拖动的方式调换层，**不会生效！！！且容易混淆！！！**
 
-:::
 
 ![](images/img14.png)
 
@@ -143,7 +138,7 @@ Ctrl + C 复制
 
 Ctrl + V 粘贴
 
-### 6️⃣蓝牙操作 <img src="images/img18.jpeg" class="icon-bluetooth" alt="">
+### 6️⃣蓝牙操作 <img src="images/img18.jpeg" class="icon-bluetooth" alt="" height="40px">
 
 #### 一、切换至指定蓝牙配置
 
@@ -231,12 +226,6 @@ Ctrl + V 粘贴
 
 | **异常** | 说明 | **解决方案** |
 | --- | --- | --- |
-| 设备显示无法配对 | 当前蓝牙配置已被占用，且不是要连接的设备 | **方案一**：切换其他未配对的蓝牙配置位 |
-| **方案二**：按下底部按钮->清空所有蓝牙配置 |   |   |
-| 改键网页未显示设备或出现failed | 未发现设备串口 | **方案一**：刷新网页 |
-| **方案二**：重新插拔设备 |   |   |
-| 若上述方案依然未发现设备，需要检查数据线是否存在问题(请勿使用苹果typec数据线) |   |   |
-
-| 特殊按钮失效不可用 | 出现 返回键、旋钮音量键 在阅读器系统失效的问题 |   |
-| 原因：阅读器系统非完整安卓系统，存在对蓝牙键值识别异常的问题。 | **方案一：找店主更换旋钮键值为安卓音量键的固件。** |   |
-| **返回键依然会失效，可以更换为阅读器系统支持的快捷键** |   |   |
+| 设备显示无法配对 | 当前蓝牙配置已被占用，且不是要连接的设备 | **方案一**：切换其他未配对的蓝牙配置位<br>**方案二**：按下底部按钮->清空所有蓝牙配置 |
+| 改键网页未显示设备或出现failed | 未发现设备串口 | **方案一**：刷新网页 **方案二**：重新插拔设备<br>若上述方案依然未发现设备，需要检查数据线是否存在问题(请勿使用苹果typec数据线)  |
+| 特殊按钮失效不可用 | 出现 返回键、旋钮音量键 在阅读器系统失效的问题<br>原因：阅读器系统非完整安卓系统，存在对蓝牙键值识别异常的问题。  | **方案一：找店主更换旋钮键值为安卓音量键的固件。** <br> **返回键依然会失效，可以更换为阅读器系统支持的快捷键** |

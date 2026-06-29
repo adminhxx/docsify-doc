@@ -35,7 +35,7 @@
 
 ## 改键说明
 
-请使用谷歌内核浏览器：谷歌浏览器 <img src="images/img01.png" class="icon-inline" alt="" height="40px"> 或 Edge <img src="images/img02.png" class="icon-inline" alt="" height="40px">
+请使用谷歌内核浏览器：谷歌浏览器 <img src="/zmk/images/img01.png" class="icon-inline" alt="" height="40px"> 或 Edge <img src="/zmk/images/img02.png" class="icon-inline" alt="" height="40px">
 
 最低版本要求 Chrome 89, Edge 89
 
@@ -138,7 +138,7 @@ Ctrl + C 复制
 
 Ctrl + V 粘贴
 
-### 6️⃣蓝牙操作 <img src="images/img18.jpeg" class="icon-bluetooth" alt="" height="40px">
+### 6️⃣蓝牙操作 <img src="/zmk/images/img18.jpeg" class="icon-bluetooth" alt="" height="40px">
 
 #### 一、切换至指定蓝牙配置
 
